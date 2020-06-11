@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Exodus mid-range riff
 Use the left arrow to go back!
